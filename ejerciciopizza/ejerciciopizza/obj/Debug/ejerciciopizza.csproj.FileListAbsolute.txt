@@ -1,0 +1,7 @@
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\bin\Debug\ejerciciopizza.exe.config
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\bin\Debug\ejerciciopizza.exe
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\bin\Debug\ejerciciopizza.pdb
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\obj\Debug\ejerciciopizza.csprojAssemblyReference.cache
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\obj\Debug\ejerciciopizza.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\obj\Debug\ejerciciopizza.exe
+C:\Users\alvar\source\repos\ejerciciopizza\ejerciciopizza\obj\Debug\ejerciciopizza.pdb
